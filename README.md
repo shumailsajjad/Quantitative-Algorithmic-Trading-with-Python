@@ -1,6 +1,6 @@
-# Quantitative Algorithmic Trading with Python 📊💻
+# Quantitative Algorithmic Trading with Python 📊
 
-Welcome to the **Quantitative Algorithmic Trading with Python** repository! This project contains Python scripts for developing and backtesting algorithmic trading strategies. The codebase is built around concepts learned from the Udemy course ["Algorithmic Trading & Quantitative Analysis Using Python"](https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/).
+This project contains Python scripts for developing and backtesting algorithmic trading strategies. The codebase is built around concepts learned from the Udemy course ["Algorithmic Trading & Quantitative Analysis Using Python"](https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/).
 
 ## Features
 
